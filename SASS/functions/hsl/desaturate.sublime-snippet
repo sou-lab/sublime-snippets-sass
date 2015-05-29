@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[desaturate(${1:\$color}, ${2:\$amount})]]></content>
-	<tabTrigger>desaturate</tabTrigger>
-	<description>desaturate()</description>
-	<scope>source.scss, source.sass</scope>
-</snippet>

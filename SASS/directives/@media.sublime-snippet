@@ -1,8 +1,8 @@
 <snippet>
-	<content><![CDATA[@media ${1:print} {
+	<content><![CDATA[@media ${1:print}
 	$0
-}]]></content>
-	<tabTrigger>media</tabTrigger>
+]]></content>
+	<tabTrigger>@media</tabTrigger>
 	<description>@media</description>
-	<scope>source.scss, source.sass</scope>
+	<scope>source.sass - Sass</scope>
 </snippet>
