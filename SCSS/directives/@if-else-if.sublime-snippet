@@ -6,7 +6,7 @@
 }${6: @else {
 	$7
 \}}$0]]></content>
-	<tabTrigger>if</tabTrigger>
+	<tabTrigger>@if</tabTrigger>
 	<description>@if @else if</description>
-	<scope>source.scss, source.sass</scope>
+	<scope>source.scss</scope>
 </snippet>

@@ -2,5 +2,5 @@
 	<content><![CDATA[@include $0;]]></content>
 	<tabTrigger>include</tabTrigger>
 	<description>@include</description>
-	<scope>source.scss, source.sass</scope>
+	<scope>source.scss</scope>
 </snippet>

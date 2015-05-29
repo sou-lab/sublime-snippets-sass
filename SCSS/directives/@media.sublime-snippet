@@ -4,5 +4,5 @@
 }]]></content>
 	<tabTrigger>media</tabTrigger>
 	<description>@media</description>
-	<scope>source.scss, source.sass</scope>
+	<scope>source.scss</scope>
 </snippet>

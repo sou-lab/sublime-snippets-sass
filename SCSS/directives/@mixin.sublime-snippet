@@ -4,5 +4,5 @@
 }$0]]></content>
 	<tabTrigger>mixin</tabTrigger>
 	<description>@mixin</description>
-	<scope>source.scss, source.sass</scope>
+	<scope>source.scss</scope>
 </snippet>
