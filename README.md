@@ -1,16 +1,8 @@
-# Sass Snippets for Sublime
+# Sass-n-Scss Snippets for Sublime
 
->[Instruções em português](README_pt-BR.md)
+folked by [sublime-snippets-sass](https://github.com/sou-lab/sublime-snippets-sass)
 
-> We thank [@mrmartineau](https://github.com/mrmartineau) for kindly providing replacement plugin and [@FichteFoll](https://github.com/FichteFoll) for the support.
-
-## Install
-
-To install through [Package Control](http://wbond.net/sublime_packages/package_control), search for **SASS Snippets**.
-
-Instead, you can download the package and put it manually inside your `Packages` directory. Remember that should work but will not update automatically.
-
-> Note: we recommend the ["Syntax Highlighting for Sass"](https://github.com/P233/Syntax-highlighting-for-Sass) plugin for syntax highlight.
+* [sublime-snippets-sass](https://github.com/sou-lab/sublime-snippets-sass)をSassとScssに分離
 
 ## List of Snippets
 
