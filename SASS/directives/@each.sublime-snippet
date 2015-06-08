@@ -3,7 +3,7 @@
 	.#{\$$1}$3
 		$4
 $0]]></content>
-	<tabTrigger>each</tabTrigger>
+	<tabTrigger>@each</tabTrigger>
 	<description>@each - Sass</description>
 	<scope>source.sass</scope>
 </snippet>
