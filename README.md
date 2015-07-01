@@ -2,7 +2,7 @@
 
 folked by [sublime-snippets-sass](https://github.com/sou-lab/sublime-snippets-sass)
 
-* [sublime-snippets-sass](https://github.com/sou-lab/sublime-snippets-sass)をSassとScssに分離
+* [sublime-snippets-sass](https://github.com/sou-lab/sublime-snippets-sass)をSassとScssでちゃんと使えるように分離
 
 ## List of Snippets
 
