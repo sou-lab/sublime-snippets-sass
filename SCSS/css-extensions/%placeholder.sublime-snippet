@@ -4,5 +4,5 @@
 }$0]]></content>
 	<tabTrigger>placeholder</tabTrigger>
 	<description>%placeholder</description>
-	<scope>source.scss, source.sass</scope>
+	<scope>source.scss</scope>
 </snippet>
