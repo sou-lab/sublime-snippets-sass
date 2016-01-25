@@ -4,7 +4,7 @@
 	.#{\$i}$3
 		$4
 $0]]></content>
-	<tabTrigger>@while</tabTrigger>
+	<tabTrigger>while</tabTrigger>
 	<description>@while</description>
 	<scope>source.sass - Sass</scope>
 </snippet>
